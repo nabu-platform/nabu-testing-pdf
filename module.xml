@@ -1,6 +1,0 @@
-<module>
-	<id>nabu.testing.pdf</id>
-	<name>Testing Pdf</name>
-	<description>This module adds support for pdf diffing</description>
-	<version>1.0</version>
-</module>
