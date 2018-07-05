@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.testing</groupId>
 	<artifactId>pdf</artifactId>
-	<version>1.0</version>
+	<version>${nabu.testing-pdf-version}</version>
 	<name>pdf</name>
 	
 	<parent>
@@ -18,12 +18,10 @@
 		<dependency>
 			<groupId>nabu.testing</groupId>
 			<artifactId>core</artifactId>
-			<version>1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>nabu.testing</groupId>
 			<artifactId>images</artifactId>
-			<version>1.0</version>
 		</dependency>
 	</dependencies>
 </project>
